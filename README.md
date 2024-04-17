@@ -10,3 +10,7 @@ This site was built using [GitHub Pages](https://www.freecodecamp.org/news/githu
 - first item
 - second item
 - third item
+
+- [x] First task completed
+- [ ] Second task uncompleted
+- [x] Third task completed 
